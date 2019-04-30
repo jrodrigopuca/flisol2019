@@ -4,7 +4,6 @@ import sys
 import cv2 
 import numpy as np
 import datetime
-import matplotlib.pyplot as plt
 
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
 
